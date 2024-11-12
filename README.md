@@ -1,6 +1,6 @@
 - 👤 Nome: Giovane Lazzuri
 - 🎂 Idade: 25 anos
-- 💻 Área de Estudo: Lógica de programação
+- 💻 Área de Estudo: Java
 - ☕ Foco de Especialização: Java
 - 🚀 Objetivo: Criar soluções eficientes e inovadoras em programação
 - 🌱 Aprendizado Contínuo: Sempre em busca de novos conhecimentos e aprimoramento técnico
